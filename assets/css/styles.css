@@ -5,10 +5,11 @@ body {
 }
 
 .header {
-    width: 100%;
     background-color: white;
-    margin-top: 17px;
-    position: sticky;
+    width: 100%;
+    position: fixed;
+    height: 8%;
+    padding-top: 20px;
 }
 
 h1,
@@ -31,7 +32,7 @@ h4 {
 }
 
 .ul_list {
-    margin-top: -42px;
+    margin-top: -28px;
     margin-left: 59%;
 }
 
@@ -46,7 +47,7 @@ h4 {
 
 .img_middle {
     margin-left: 48.5%;
-    margin-top: 2%;
+    margin-top: 4%;
 }
 
 .middle_content {
